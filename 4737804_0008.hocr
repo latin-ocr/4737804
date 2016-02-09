@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737804_0008.png"; bbox 0 0 1848 2929; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 485 1167 1570 1256">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 485 1167 1570 1256">
+     <span class='ocr_line' id='line_1_1' title="bbox 485 1167 1570 1206; baseline 0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 485 1168 526 1196; x_wconf 88' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_2' title='bbox 549 1167 764 1196; x_wconf 77' lang='lat' dir='ltr'>dissertatione</span> <span class='ocrx_word' id='word_1_3' title='bbox 785 1168 940 1204; x_wconf 82' lang='lat' dir='ltr'>probanda</span> <span class='ocrx_word' id='word_1_4' title='bbox 967 1169 1004 1197; x_wconf 83' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_5' title='bbox 1027 1169 1161 1198; x_wconf 83' lang='lat' dir='ltr'>ordinem</span> <span class='ocrx_word' id='word_1_6' title='bbox 1182 1169 1425 1206; x_wconf 88' lang='lat' dir='ltr'>philosophorum</span> <span class='ocrx_word' id='word_1_7' title='bbox 1447 1170 1570 1199; x_wconf 70' lang='lat' dir='ltr'><strong>rettulit</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 845 1226 1213 1256; baseline 0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 845 1226 1029 1256; x_wconf 76' lang='lat' dir='ltr'>Richardus</span> <span class='ocrx_word' id='word_1_9' title='bbox 1050 1227 1213 1256; x_wconf 79' lang='lat' dir='ltr'><strong>Foerster.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 560 1344 1497 1433">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 560 1344 1497 1433">
+     <span class='ocr_line' id='line_1_3' title="bbox 560 1344 1497 1381; baseline 0.002 -9"><span class='ocrx_word' id='word_1_10' title='bbox 560 1344 694 1372; x_wconf 84' lang='lat' dir='ltr'>Examen</span> <span class='ocrx_word' id='word_1_11' title='bbox 717 1345 887 1381; x_wconf 84' lang='lat' dir='ltr'>rigorosum</span> <span class='ocrx_word' id='word_1_12' title='bbox 909 1345 1046 1373; x_wconf 79' lang='lat' dir='ltr'><strong>habitum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1068 1348 1115 1374; x_wconf 79' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_14' title='bbox 1137 1345 1184 1374; x_wconf 84' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_15' title='bbox 1205 1346 1261 1375; x_wconf 94' lang='lat' dir='ltr'>XV</span> <span class='ocrx_word' id='word_1_16' title='bbox 1282 1347 1394 1374; x_wconf 87' lang='lat' dir='ltr'><strong>mensis</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1415 1346 1497 1374; x_wconf 91' lang='lat' dir='ltr'><strong>Iunii</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 924 1403 1139 1433; baseline 0.009 -2"><span class='ocrx_word' id='word_1_18' title='bbox 924 1404 997 1432; x_wconf 87' lang='lat' dir='ltr'>anni</span> <span class='ocrx_word' id='word_1_19' title='bbox 1016 1403 1139 1433; x_wconf 82' lang='lat' dir='ltr'>MCMX.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
